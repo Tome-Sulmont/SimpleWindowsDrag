@@ -1,5 +1,6 @@
 # Simple Windows Drag
-The goal with this script is to easily snap, move and resize windows with a single key press and a mouse.
+The goal with Simple Windows Drag is to easily snap, move and resize windows with a single key press and a mouse.
+This script is made for AutoHotKey V1.1
 ## Features
 - Hold down <kbd>F14</kbd> and <kbd>Left click</kbd> anywhere inside a window to **drag** it to a new location.
 - Hold down <kbd>F14</kbd> and <kbd>Right click drag</kbd> anywhere inside a window to easily **resize** it.
@@ -23,3 +24,20 @@ In my case, <kbd>F14</kbd> is remapped to <kbd>Caps Lock</kbd> with PowerToy
 |<kbd>F14</kbd> + <kbd>Middle Button</kbd> + <kbd>Drag Bottom left corner</kbd>|Snap to the Bottom-Left quarter.|
 |<kbd>F14</kbd> + <kbd>Middle Button</kbd> + <kbd>Motionless</kbd>|Minimize a window.|
 |<kbd>F14</kbd> + <kbd>Numpad</kbd>|Snap the active window.|
+
+## Installation
+1. Install AutoHotKey
+2. Download the `SimpleWindowsDrag.ahk` file and double click it to run it.
+3. (Optional) To have the script run when you start your computer, place the .ahk file (or a shortcut of it) into your computer's startup folder.
+
+-> The startup folder can be accessed by pressing <kbd>Win</kbd> + <kbd>R</kbd> on your keyboard, then in the Open: field, type shell:startup then press <kbd>Enter</kbd>.
+
+## The script
+I’v tried to make those 3 scripts work together :
+- Easy Window Dragging KDE style - by Jonny
+- Hyper Window Snap - by Andrew Moore and Jeff Axelrod
+- Middle Mouse Button Gestures (diagonal) - by Drozdman
+
+It’s all written in Autohotkey V1.1 because of the amount of ressources online and the fact that the originals scripts are  all written in this version of the language.
+
+I’m new to coding, so my code is probably not well optimized and some fonctions does not works as well as I’d like. But overall, I’m pretty happy with what this piece of code can do.
