@@ -26,11 +26,11 @@ In my case, <kbd>F14</kbd> is remapped to <kbd>Caps Lock</kbd> with PowerToy
 |<kbd>F14</kbd> + <kbd>Numpad</kbd>|Snap the active window.|
 
 ## Installation
-1. Install AutoHotKey
-2. Download the `SimpleWindowsDrag.ahk` file and double click it to run it.
+1. Install [AutoHotKey](https://www.autohotkey.com/)
+2. Download the `SimpleWindowsDrag.ahk` file and double click to run it.
 3. (Optional) To have the script run when you start your computer, place the .ahk file (or a shortcut of it) into your computer's startup folder.
 
--> The startup folder can be accessed by pressing <kbd>Win</kbd> + <kbd>R</kbd> on your keyboard, then in the Open: field, type shell:startup then press <kbd>Enter</kbd>.
+-> The startup folder can be accessed by pressing <kbd>Win</kbd> + <kbd>R</kbd> on your keyboard, then in the Open field, type `shell:startup` then press <kbd>Enter</kbd>.
 
 ## The script
 I’v tried to make those 3 scripts work together :
