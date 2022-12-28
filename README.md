@@ -9,17 +9,17 @@ The goal with this script is to easily snap, move and resize windows with a sing
 In my case, F14 is remapped to Caps Lock with PowerToy
 ## All the shortcuts
 
-| Hotkeys      |       |
-|---    |:-:    |
-|`F14 + Left Button + Drag`|Move a window.|
-|`F14 + Right Button + Drag`|Resize a window.|
-|`F14 + Middle Button + Drag Up`|Maximize/Restore a window.|
-|`F14 + Middle Button + Drag Down`|Always On Top a window.|
-|`F14 + Middle Button + Drag Right`|Snap to the Right half.|
-|`F14 + Middle Button + Drag Left`|Snap to the Left half.|
-|`F14 + Middle Button + Drag Top right corner`|Snap to the Top-Right quarter.|
-|`F14 + Middle Button + Drag Top left corner`|Snap to the Top-Left quarter.|
-|`F14 + Middle Button + Drag Bottom right corner`|Snap to Bottom-Right quarter.|
-|`F14 + Middle Button + Drag Bottom left corner`|Snap to the Bottom-Left quarter.|
-|`F14 + Middle Button + Motionless`|Minimize a window.|
-|`F14 + Numpad`|Snap the active window.|
+| Hotkeys|Behavior|
+|---|---|
+|<kbd>F14 + Left Button + Drag</kbd>|Move a window.|
+|<kbd>F14 + Right Button + Drag</kbd>|Resize a window.|
+|<kbd>F14 + Middle Button + Drag Up</kbd>|Maximize/Restore a window.|
+|<kbd>F14 + Middle Button + Drag Down</kbd>|Always On Top a window.|
+|<kbd>F14 + Middle Button + Drag Right</kbd>|Snap to the Right half.|
+|<kbd>F14 + Middle Button + Drag Left</kbd>|Snap to the Left half.|
+|<kbd>F14 + Middle Button + Drag Top right corner</kbd>|Snap to the Top-Right quarter.|
+|<kbd>F14 + Middle Button + Drag Top left corner</kbd>|Snap to the Top-Left quarter.|
+|<kbd>F14 + Middle Button + Drag Bottom right corner</kbd>|Snap to Bottom-Right quarter.|
+|<kbd>F14 + Middle Button + Drag Bottom left corner</kbd>|Snap to the Bottom-Left quarter.|
+|<kbd>F14 + Middle Button + Motionless</kbd>|Minimize a window.|
+|<kbd>F14 + Numpad</kbd>|Snap the active window.|
