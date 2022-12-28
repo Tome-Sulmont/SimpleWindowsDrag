@@ -309,11 +309,11 @@ MouseGetPos, X1, Y1, KDE_id ; Get the window id
 WinGetClass, ClassWin , ahk_id %KDE_id% 
 If ClassWin = WorkerW 
 	return
-SetTimer, MBGesture, 1
+Keywait MButton
+MouseGetPos, X2, Y2
 MinTime := 50 ; Set A_TimeSinceThisHotkey
 LongTime := 200 ; Set A_TimeSinceThisHotkey to avoid hiting Gesture down by accident
 Tolerance := 60 ; Tolerance of the gesture
-Keywait MButton
 if(A_TimeSinceThisHotkey>MinTime AND X2-X1>0 AND Y2-Y1<0 AND Abs(X2-X1) >= Tolerance AND Abs(Y2-Y1) >= Tolerance) {
 	Goto GestureTR	; gesture top/right
 }
@@ -341,8 +341,6 @@ else if(A_TimeSinceThisHotkey>MinTime AND X2-X1>0 AND Abs(X2-X1) >= Tolerance AN
 else if ((X1 = X2) and (Y1 = Y2)) {
 	Goto NoMove		; gesture no move
 }
-MBGesture:
-MouseGetPos, X2, Y2
 return
 
 
@@ -384,12 +382,12 @@ GestureD:	; Gesture down
 return
 
 GestureL:	; gesture left
-	WinActivate, KDE_id ; Activate the window
+	WinActivate, ahk_id %KDE_id% ; Activate the window
 	SnapActiveWindow("top","left","full")
 return
 
 GestureR:	; gesture right
-	WinActivate, KDE_id ; Activate the window
+	WinActivate, ahk_id %KDE_id% ; Activate the window
 	SnapActiveWindow("top","right","full")
 return
 
