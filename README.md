@@ -1,4 +1,4 @@
-# SimpleWindowsDrag
+# Simple Windows Drag
 The goal with this script is to easily snap, move and resize windows with a single key press and a mouse.
 ## Features
 - Hold down the F14 key and Left-click anywhere inside a window to drag it to a new location.
@@ -7,7 +7,7 @@ The goal with this script is to easily snap, move and resize windows with a sing
 - Hold down F14 and Middle-click without moving to minimize the window under the mouse cursor.
 
 In my case, F14 is remapped to Caps Lock with PowerToy
-## All the shortcuts
+## All shortcuts
 
 | Hotkeys|Behavior|
 |---|---|
