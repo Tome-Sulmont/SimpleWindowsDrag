@@ -34,9 +34,9 @@ In my case, <kbd>F14</kbd> is remapped to <kbd>Caps Lock</kbd> with PowerToy
 
 ## The script
 I’v tried to make those 3 scripts work together :
-- Easy Window Dragging KDE style - by Jonny
-- Hyper Window Snap - by Andrew Moore and Jeff Axelrod
-- Middle Mouse Button Gestures (diagonal) - by Drozdman
+- [Easy Window Dragging KDE style](https://www.autohotkey.com/docs/v1/scripts/index.htm#EasyWindowDrag_(KDE)) - by Jonny
+- [Hyper Window Snap](https://github.com/glenviewjeff/HyperWindowSnap) - by Andrew Moore and Jeff Axelrod
+- (Middle Mouse Button Gestures (diagonal)](https://www.autohotkey.com/board/topic/87331-middle-mouse-button-gestures-diagonal/) - by Drozdman
 
 It’s all written in Autohotkey V1.1 because of the amount of ressources online and the fact that the originals scripts are  all written in this version of the language.
 
