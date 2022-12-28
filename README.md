@@ -40,4 +40,4 @@ I’v tried to make those 3 scripts work together :
 
 It’s all written in Autohotkey V1.1 because of the amount of ressources online and the fact that the originals scripts are  all written in this version of the language.
 
-I’m new to coding, so my code is probably not well optimized and some fonctions does not works as well as I’d like. But overall, I’m pretty happy with what this piece of code can do.
+I’m new to coding, so my code is probably not well optimized and some fonctions does not works as well as I would like. But overall, I’m pretty happy with what this piece of code can do.
