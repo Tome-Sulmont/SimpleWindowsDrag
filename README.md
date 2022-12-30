@@ -1,5 +1,5 @@
 # Simple Windows Drag
-The goal with Simple Windows Drag is to easily snap, move and resize windows with a single key press and a mouse.
+The goal with Simple Windows Drag is to easily snap, move and resize windows with a single keystroke and mouse movement.
 This script is made for AutoHotKey V1.1
 ## Features
 - Hold down <kbd>F14</kbd> and <kbd>Left click</kbd> anywhere inside a window to **drag** it to a new location.
