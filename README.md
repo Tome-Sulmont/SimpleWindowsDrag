@@ -33,7 +33,7 @@ In my case, <kbd>F14</kbd> is remapped to <kbd>Caps Lock</kbd> with PowerToy
 -> The startup folder can be accessed by pressing <kbd>Win</kbd> + <kbd>R</kbd> on your keyboard, then in the Open field, type `shell:startup` then press <kbd>Enter</kbd>.
 
 ## The script
-I’v tried to make those 3 scripts work together :
+I’ve tried to make those 3 scripts work together :
 - [Easy Window Dragging KDE style](https://www.autohotkey.com/docs/v1/scripts/index.htm#EasyWindowDrag_(KDE)) - by Jonny
 - [Hyper Window Snap](https://github.com/glenviewjeff/HyperWindowSnap) - by Andrew Moore and Jeff Axelrod
 - [Middle Mouse Button Gestures (diagonal)](https://www.autohotkey.com/board/topic/87331-middle-mouse-button-gestures-diagonal/) - by Drozdman
